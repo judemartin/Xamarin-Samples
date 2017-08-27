@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ShowViewValuesDataBinding"
+             x:Class="ShowViewValuesDataBinding.ShowViewValues">
+
+    <Label Text="Welcome to Xamarin Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
+    <StackLayout>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Label Text="{Binding Source={x:Reference Slider}, Path=Value, StringFormat='The Slider value is {0:F3}'}"></Label>
+            <Slider x:Name="Slider"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Label Text="{Binding Source={x:Reference Entry}, Path=Text,StringFormat='The Entry text is &#x201C;{0}&#x201D;'}"></Label>
+            <Entry x:Name="Entry"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Label Text="{Binding Source={x:Reference Stepper}, Path=Value, StringFormat='The Stepper value is {0}'}"/>
+            <Stepper x:Name="Stepper"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Label Text="{Binding Source={x:Reference Switch}, Path=IsToggled, StringFormat='The Switch value is {0}'}"></Label>
+            <Switch x:Name="Switch"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

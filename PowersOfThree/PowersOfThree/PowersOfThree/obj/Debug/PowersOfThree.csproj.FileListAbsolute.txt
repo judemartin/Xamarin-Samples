@@ -1,0 +1,15 @@
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\PowersOfThree.dll
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\PowersOfThree.pdb
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\obj\Debug\PowersOfThree.csprojResolveAssemblyReference.cache
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\obj\Debug\PowersOfThree.PowersOfThreePage.xaml.g.cs
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\obj\Debug\PowersOfThree.App.xaml.g.cs
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\obj\Debug\PowersOfThree.dll
+C:\Users\Jude\Documents\Mobile\PowersOfThree\PowersOfThree\PowersOfThree\obj\Debug\PowersOfThree.pdb

@@ -1,0 +1,15 @@
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\DeviceDetails.dll
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\DeviceDetails.pdb
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\obj\Debug\DeviceDetails.csprojResolveAssemblyReference.cache
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\obj\Debug\DeviceDetails.MainPage.xaml.g.cs
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\obj\Debug\DeviceDetails.App.xaml.g.cs
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\obj\Debug\DeviceDetails.dll
+C:\Users\Jude\Documents\Mobile\DeviceDetails\DeviceDetails\DeviceDetails\obj\Debug\DeviceDetails.pdb

@@ -1,0 +1,15 @@
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\obj\Debug\HslSliders.csprojResolveAssemblyReference.cache
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\obj\Debug\HslSliders.HslSildersPage.xaml.g.cs
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\obj\Debug\HslSliders.App.xaml.g.cs
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\HslSliders.dll
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\HslSliders.pdb
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\obj\Debug\HslSliders.dll
+C:\Users\Jude\Documents\Mobile\HslSliders\HslSliders\HslSliders\obj\Debug\HslSliders.pdb
