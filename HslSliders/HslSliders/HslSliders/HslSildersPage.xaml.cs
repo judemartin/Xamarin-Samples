@@ -16,7 +16,22 @@ namespace HslSliders
 
         private void OnSizeChanged(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            if (Width < Height)
+            {
+                mainGrid.RowDefinitions[1].Height = GridLength.Auto;
+                mainGrid.ColumnDefinitions[1].Width = new GridLength(0, GridUnitType.Absolute);
+
+                Grid.SetRow(controlPanelStack, 1);
+                Grid.SetColumn(controlPanelStack, 0);
+            }
+            else
+            {
+                mainGrid.RowDefinitions[1].Height = new GridLength(0, GridUnitType.Absolute);
+                mainGrid.ColumnDefinitions[1].Width = new GridLength(1, GridUnitType.Star);
+
+                Grid.SetRow(controlPanelStack, 0);
+                Grid.SetColumn(controlPanelStack, 1);
+            }
         }
     }
 }
