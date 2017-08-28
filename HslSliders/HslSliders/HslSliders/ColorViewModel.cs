@@ -148,7 +148,22 @@ namespace HslSliders
 
         double Round(double value)
         {
-            return Device.OnPlatform(value, Math.Round(value, 3), value);
+            var result = 0.0;
+            //return Device.OnPlatform(value, Math.Round(value, 3), value);
+            switch (Device.RuntimePlatform)
+            {
+                case Device.iOS:
+                    result = value;
+                    break;
+                case Device.Android:
+                    result = Math.Round(value, 3);
+                    break;
+                case Device.WinPhone:
+                    result = value;
+                    break;
+
+            }
+            return result;
         }
 
         protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
