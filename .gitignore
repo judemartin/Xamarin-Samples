@@ -1,6 +1,7 @@
 # Build results
 [Bb]in/
 [Oo]bj/
+packages/
 
 # .NET Core
 
